@@ -9,6 +9,7 @@
 | 2026-10-16 | [教育行业热点新闻](education-news-2026-10-16.md) | - |
 | 2026-10-19 | [教育行业热点新闻](education-news-2026-10-19.md) | [查看](.screenshots/6ad568b625900f2a4435ac7c.png) |
 | 2026-10-21 | [教育行业热点新闻](education-news-2026-10-21.md) | [查看](.screenshots/6ad8009fef7bc9610fdbb154.png) |
+| 2026-10-23 | [教育行业热点新闻](education-news-2026-10-23.md) | - |
 
 <img src=".screenshots/6ad8009fef7bc9610fdbb154.png" alt="2026-10-21 日报页面示例" width="420">
 
@@ -34,8 +35,7 @@
 ## 文件与分支约定
 
 - 日报文件名：`education-news-YYYY-MM-DD.md`。
-- 每日提交分支：`YYYY-MM-DD`（例如 `2026-10-21`）。
-- `main` 分支汇总历次日报；GitHub 默认分支已同步到同一最新提交。建议在仓库 Settings → Branches 中将默认分支切换为 `main`，避免默认分支名与日报日期混淆。
+- 所有日报统一提交到 `2026` 分支，不再按日期新建分支。
 - 提交信息风格：`docs: 补充教育行业热点新闻报告 (YYYY-MM-DD)`。
 
 ## 数据来源与免责声明
