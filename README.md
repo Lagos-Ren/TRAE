@@ -10,6 +10,7 @@
 | 2026-10-19 | [教育行业热点新闻](education-news-2026-10-19.md) | [查看](.screenshots/6ad568b625900f2a4435ac7c.png) |
 | 2026-10-21 | [教育行业热点新闻](education-news-2026-10-21.md) | [查看](.screenshots/6ad8009fef7bc9610fdbb154.png) |
 | 2026-10-23 | [教育行业热点新闻](education-news-2026-10-23.md) | - |
+| 2026-10-26 | [教育行业热点新闻](education-news-2026-10-26.md) | - |
 
 <img src=".screenshots/6ad8009fef7bc9610fdbb154.png" alt="2026-10-21 日报页面示例" width="420">
 
